@@ -1,0 +1,11 @@
+Assignment Submission Form 
+Group 6
+=================================================================================================================
+I/we declare that the attached assignment is my/our own work in accordance with Humber Academic Policy. Nopart of this assignment has been copied manually or electronically from any other source (including web sites) or distributed to other students.
+Name(s)			Student ID(s)
+Chioma Kamalu		N0
+Pelumi Owoshagba	N01574587
+Adekunle Omonihi	N01511618
+-------------------------------------------------------------------------------------------------------------------
+
+In our Java project, we used a JDBC (Java Database Connectivity) application for connecting with the Oracle database. We have Classes for creating a database connection (JDBCConnector), running arbitrary SQL commands (AnySQL), querying the database using prepared statements (QueryUsingPreparedStatement and QueryUsingStatement), and updating databases (DeleteCountry, InsertCountry, UpdateCountry) in our project. The logic entails establishing a connection to the database, running SQL commands or statements, interpreting the outcomes, and managing exceptions. The AnySQL class takes user input for custom SQL commands. We also implemeted the use of prepared statements(using parameter binding) and static statement in our different Classes to interact with the database. 
